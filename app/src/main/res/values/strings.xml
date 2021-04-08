@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Civitatis</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="my_name">Cesar</string>
+    <string name="my_lastname">Higuera Hernandez</string>
+    <string name="my_email">Cesarhiguera1@gmail.com</string>
+    <string name="date_test">7–4–2021</string>
+
+    <!--Retrofit Services-->
+    <string name="bad_request">Error, wrong request</string>
+    <string name="token_expired">The session has expired, please login again</string>
+    <string name="internal_server_error">Error in connection with the server</string>
+    <string name="bad_request_code">Code error: </string>
+    <string name="unable_message">We were unable to capture the message</string>
+
+    <string name="gif_url"><![CDATA[https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif?cid=ecf05e47f887a4dfa7333a970fbeb084d386227085de6d00&rid=giphy.gif]]></string>
+    <string name="handle_error">Handle Error</string>
+
+    <!--Data-->
+    <string name="tittle">Tittle</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="type">type</string>
+    <string name="date">Date</string>
+    <string name="imagen_logo">Imagen Logo</string>
+    <string name="imagen_gif">Imagen Gif</string>
+    <string name="details">Details</string>
+    <string name="url">Url</string>
+
+</resources>
